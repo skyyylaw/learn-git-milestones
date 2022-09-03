@@ -274,7 +274,7 @@ Item # | Description | Completed
 1b | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/skyyylaw/learn-git-milestones/commit/e2082e52247e5ead56387ddbc63799ad9f867949)
 1c | Link to markdown tables docs | [this is a markdown table documentation](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? | List commits that are reachable by following the parent links from the given commit(s), but exclude commits that are reachable from the one(s) given with a ^ in front of them. The output is given in reverse chronological order by default.
-2a | 2nd Favorite emoji |
+2a | 2nd Favorite emoji | 😅
 2b | Link to `commit #2 from Github Desktop` |
 2c | Full path to your working directory |
 2d | Link to `commit #3 from CLI` |
