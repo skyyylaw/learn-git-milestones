@@ -279,7 +279,7 @@ Item # | Description | Completed
 2c | Full path to your working directory | /Users/sky/Sites/critical-web-design/learn-git-milestones/README.md
 2d | Link to `commit #3 from CLI` | https://github.com/omundy/learn-git-milestones/commit/bcb3355023943b5d614f446743b9a5b57890c31d
 2e | 3rd Favorite emoji | 👌
-2f | Link to `commit #4 from Atom` |
+2f | Link to `commit #4 from Atom` | https://github.com/omundy/learn-git-milestones/commit/b8366c6afbf1d9201a5dc861bf85c1c2f9f3b618
 3a | Link to `my-awesome-project` github.com repo page |
 4a | Link to `my-awesome-project` github.io "project site" |
 
