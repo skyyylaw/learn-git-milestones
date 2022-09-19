@@ -275,9 +275,9 @@ Item # | Description | Completed
 1c | Link to markdown tables docs | [this is a markdown table documentation](https://www.markdownguide.org/extended-syntax/)
 1d | What does `log` do? | List commits that are reachable by following the parent links from the given commit(s), but exclude commits that are reachable from the one(s) given with a ^ in front of them. The output is given in reverse chronological order by default.
 2a | 2nd Favorite emoji | 😅
-2b | Link to `commit #2 from Github Desktop` | [commit #2 from Github.com](https://github.com/omundy/learn-git-milestones/commit/327b904e4efa56db8b4bfd410ecb65c79f9ffd4f)
+2b | Link to `commit #2 from Github Desktop` | [commit #2](https://github.com/omundy/learn-git-milestones/commit/327b904e4efa56db8b4bfd410ecb65c79f9ffd4f)
 2c | Full path to your working directory | /Users/sky/Sites/critical-web-design/learn-git-milestones/README.md
-2d | Link to `commit #3 from CLI` | https://github.com/omundy/learn-git-milestones/commit/bcb3355023943b5d614f446743b9a5b57890c31d
+2d | Link to `commit #3 from CLI` | [commit #3](https://github.com/omundy/learn-git-milestones/commit/bcb3355023943b5d614f446743b9a5b57890c31d)
 2e | 3rd Favorite emoji | 👌
 2f | Link to `commit #4 from Atom` | https://github.com/omundy/learn-git-milestones/commit/b8366c6afbf1d9201a5dc861bf85c1c2f9f3b618
 3a | Link to `my-awesome-project` github.com repo page | https://github.com/skyyylaw/my-awesome-project
